@@ -70,7 +70,7 @@ It will take you through the following steps:
 
 2. **Create your project**
 
-    The next step lets you name your project and given it a description.
+    The next step lets you name your project and give it a description.
 
 3. **Create your project files**
 
